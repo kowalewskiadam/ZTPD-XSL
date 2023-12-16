@@ -1,0 +1,7 @@
+zad 3
+<?xml-stylesheet type="text/xsl" href="zesp_prac.xsl"?>
+
+zad 5
+<xsl:template match="*">
+      <h1>ZESPOŁY:</h1>
+</xsl:template>
